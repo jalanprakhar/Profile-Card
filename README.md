@@ -1,16 +1,3 @@
-# my_portfolio
+# A basic profile card built in flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="189" alt="image" src="https://user-images.githubusercontent.com/75791114/155939527-a7d5c010-730f-43f2-ad8e-55457c4b4bb8.png">
